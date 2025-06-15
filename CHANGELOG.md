@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0 (2025-06-15)
+
+
+### Features
+
+* initial commit ([19068cd](https://github.com/scriptcoded/scripts-chunk-loaders-test/commit/19068cd1afcd313ffad5674546ec2ecacb9c88b5))
+
 ## [0.4.0](https://github.com/scriptcoded/scripts-chunk-loaders/compare/v0.3.1...v0.4.0) (2025-06-15)
 
 
